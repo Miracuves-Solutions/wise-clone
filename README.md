@@ -30,9 +30,9 @@ Most banking scripts stop at "send + receive." This platform ships with the feat
 
 - **KYC/AML Built In** — passport + selfie + liveness verification with sanctions screening and ongoing transaction monitoring — same stack neobanks use to get licensed
 - **Multi-Currency Core** — 40+ currencies with real exchange rates, multi-currency cards, and FX-hedged wallets — Revolut's core playbook
-- **Issuing-as-a-Service Ready** — 
-- **Open Banking & PSD2** — double-entry ledger built for fintech with reconciliation, holds, reversals, and audit — what Stripe & Plaid run on
-- **Programmable Ledger** — PSD2/Open Banking aggregators pre-integrated — accounts aggregation, instant payments, SCA flows ready
+- **Issuing-as-a-Service Ready** — Visa and Mastercard BIN sponsorship partners pre-integrated — launch a card product without licensing the bank yourself
+- **Open Banking & PSD2** — PSD2/Open Banking aggregators pre-integrated — accounts aggregation, instant payments, SCA flows ready
+- **Programmable Ledger** — double-entry ledger built for fintech with reconciliation, holds, reversals, and audit — what Stripe & Plaid run on
 
 ## 📦 Core Features
 
