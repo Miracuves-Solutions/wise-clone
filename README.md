@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$6,699**, transparent on the [solution page](https://miracuves.com/wise-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$21,999**, transparent on the [solution page](https://miracuves.com/wise-clone/#pricing) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -109,7 +109,7 @@ TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 {MX_NAME}         MXWise
 {CATEGORY}        Digital Banking & Finance Platform
 {DEMO_WEB}        mxwise.mimeld.com
-{PRICE}           $6,699
+{PRICE}           $21,999
 {SLUG}            wise-clone
 {SOLUTION_URL}    https://miracuves.com/wise-clone/
 {VERTICAL}        banking
