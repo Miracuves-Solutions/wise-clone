@@ -3,9 +3,9 @@
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxwise.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/wise-clone/)
 [![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/wise-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/wise-clone/#included)
 
-**MXWise** is a production-ready, white-label Wise clone: a complete neobank with multi-currency accounts, cards, KYC/AML, and admin console — delivered with **100% source code ownership** in **6 working days**.
+**mxwise** is a production-ready, white-label Wise clone: a complete neobank with multi-currency accounts, cards, KYC/AML, and admin console — delivered with **100% source code ownership** in **6 working days**.
 
 > 🏦 **See it running before you talk to anyone.** Live user app, admin console, and compliance dashboard — demo credentials are printed on the [solution page](https://miracuves.com/wise-clone#demo). No sales call required.
 
@@ -80,10 +80,10 @@ Custom neobanks run $300k–$2M and 9–24 months. A proven white-label base get
 ## 📚 Resources
 
 - 📖 [Wise Clone — Full Solution Page](https://miracuves.com/wise-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Neobank Cost in 2026?](https://miracuves.com/wise-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Wise Clone Script in 2026](https://miracuves.com/wise-clone/blog/) features, pricing & launch guide
-- 🧠 [KYC/AML Stack for Licensed Fintechs](https://miracuves.com/wise-clone/blog/) providers, flows, ongoing monitoring
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/wise-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Neobank Cost in 2026?](https://miracuves.com/wise-clone#features) pricing breakdown & what's included
+- 📝 [Best Wise Clone Script in 2026](https://miracuves.com/wise-clone#features) features, pricing & launch guide
+- 🧠 [KYC/AML Stack for Licensed Fintechs](https://miracuves.com/wise-clone#features) providers, flows, ongoing monitoring
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/wise-clone#faq) every claim we make, verified
 
 ## 🏢 About Miracuves
 
@@ -106,7 +106,7 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Wise Clone
-{MX_NAME}         MXWise
+{MX_NAME}         mxwise
 {CATEGORY}        Digital Banking & Finance Platform
 {DEMO_WEB}        mxwise.mimeld.com
 {PRICE}           $21,999
